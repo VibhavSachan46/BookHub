@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vibha/AndroidStudioProjects/BookStore/app/src/main/res/drawable-anydpi/ic_dashboard.xml" value="0.1955" />
         <entry key="..\:/Users/vibha/AndroidStudioProjects/BookStore/app/src/main/res/layout/activity_main.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/vibha/AndroidStudioProjects/BookStore/app/src/main/res/layout/drawer_header.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/vibha/AndroidStudioProjects/BookStore/app/src/main/res/menu/menu_drawer.xml" value="0.25677083333333334" />
       </map>
     </option>
